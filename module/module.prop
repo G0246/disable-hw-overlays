@@ -3,4 +3,4 @@ name=Disable Hardware Overlays
 version=v1.0.0
 versionCode=100
 author=Veutexus
-description=A module that disables HW overlays and forces GPU rendering. (GitHub: https://github.com/G0246)
+description=A module that disables HW overlays and forces GPU rendering.
